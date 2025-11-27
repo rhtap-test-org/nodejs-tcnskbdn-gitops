@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/nodejs-tcnskbdn:95b9c5818e09ca73a4768ebcfec85b697f8e268b@sha256:cd9f439a4baaf5e3cba466c8d7a72ae4b917ab62acb7c2271c8cc75622cff299
+        - image: quay.io/tsscui/nodejs-tcnskbdn:5a557c6e5f9a6cc7368e77e6d7f3ee32d2bfc30a@sha256:47a790ca23d0ccc5335a59befee53c18edbdcfd7ccdd10ca08594b967b862f06
           name: container-image
